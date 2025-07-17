@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "qoAjWYYJ#NSgmwfJActBhpL16I3wtltPrI5BEfiNUICVQmxEdPBA",
+    SESSION_ID: process.env.SESSION_ID || "wVIG2LKR#SlkP-euYz3_FKQza8_2lKcm0bPWzU6cX0WmkBU5X2Ok",
     HEART_REACT: process.env.HEART_REACT || "false",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
@@ -32,8 +32,8 @@ module.exports = {
     ANTI_VV: process.env.ANTI_VV || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // change it to 'same' if you want to resend deleted message in same chat
     OWNER_NAME: process.env.OWNER_NAME || "AWAISXD", //replace with your name 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9231828",// add your bot owner number
-    DEV: process.env.DEV || "923470027813", //replace with your whatsapp number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "256 759 694671",// add your bot owner number
+    DEV: process.env.DEV || "256 759 694671", //replace with your whatsapp number
     AUTOLIKESTATUS: process.env.AUTOLIKESTATUS || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅`",
